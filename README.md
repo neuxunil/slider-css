@@ -1,3 +1,3 @@
-# slider-css
 
-https://neuxunil.github.io/slider-css
+# slider-css
+https://neuxunil.github.io/slider-css/index.html
